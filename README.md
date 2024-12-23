@@ -96,7 +96,7 @@ GitHub Actions provides built-in environment variables that enhance workflow con
              python3 -V
              touch my_file_with_workflow.py
              ls -l
-       ```
+```
 4. **Commit and Push Your Workflow**:
    Add and push the workflow to GitHub:
    ```bash
