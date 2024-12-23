@@ -186,18 +186,23 @@ git push
 ## Visual Guide
 
 ### Navigating the GitHub Console
-- **Actions Tab**: *![image](https://github.com/user-attachments/assets/19ded7c8-64c1-4f61-8bd5-9dbf700c1095)
-*  
-- **Workflow List**: *![image](https://github.com/user-attachments/assets/0f9d4e47-2e41-4469-a9b4-c04ca1f42342)
-*  
-- **Workflow Details**: *![image](https://github.com/user-attachments/assets/106571f8-545b-44e4-a4f8-427d1c6bebed)
-*  
+- **Actions Tab**:
+  ![image](https://github.com/user-attachments/assets/19ded7c8-64c1-4f61-8bd5-9dbf700c1095)
+  
+- **Workflow List**:
+  ![image](https://github.com/user-attachments/assets/0f9d4e47-2e41-4469-a9b4-c04ca1f42342)
+
+- **Workflow Details**:
+  ![image](https://github.com/user-attachments/assets/106571f8-545b-44e4-a4f8-427d1c6bebed)
+
 
 ### Debugging
-- **Secrets Configuration**: *![image](https://github.com/user-attachments/assets/ed3f2503-3bde-4233-aa7e-1562a9048c87)
-*  
-- **Debug Logs**: *![image](https://github.com/user-attachments/assets/21e6ff0d-a4f1-4f11-8ce8-34be3e6cb5fa)
-*  
+- **Secrets Configuration**:
+  ![image](https://github.com/user-attachments/assets/ed3f2503-3bde-4233-aa7e-1562a9048c87)
+ 
+- **Debug Logs**:
+  ![image](https://github.com/user-attachments/assets/21e6ff0d-a4f1-4f11-8ce8-34be3e6cb5fa)
+
 
 ---
 
