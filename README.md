@@ -227,10 +227,6 @@ In this section, we expand upon previous workflows by building an action that:
 - Checks code quality using Flake8.
 - Explains the use of environment variables for better flexibility.
 
-![issues](https://github.com/user-attachments/assets/cedea55a-462b-4b50-a1c2-9f1d73687fce)
-(we could imagine that some issues will trigger specific Events/Action according to labels)
-
-
 ---
 
 ### 1. Pytest and Flake8 Setup
@@ -340,10 +336,11 @@ Secrets allow storing sensitive data securely (e.g., API keys, tokens). To creat
 1. Navigate to **Settings > Secrets** in your repository.
 2. Add a new secret (e.g., `API_KEY`).
 3. Reference it in your workflow:
+
    ```yaml
    env:
      API_KEY: ${{ secrets.API_KEY }}
-```
+   ```
 
 ### 6. Pushing Files to the Repository
 
